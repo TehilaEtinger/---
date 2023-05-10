@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Server",
+    "\\Server\\Server.Api",
+    "\\Server\\Server.Repository"
+  ],
+  "SelectedNode": "\\Server\\Server.Repository\\Context.cs",
+  "PreviewInSolutionExplorer": false
+}

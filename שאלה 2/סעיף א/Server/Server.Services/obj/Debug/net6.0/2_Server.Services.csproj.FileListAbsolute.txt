@@ -1,0 +1,119 @@
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.deps.json
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.runtimeconfig.json
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.pdb
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.dll
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.pdb
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CopyComplete
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\refint\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.pdb
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.genruntimeconfig.cache
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Server\Server.Services\obj\Debug\net6.0\ref\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.deps.json
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.runtimeconfig.json
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.pdb
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.dll
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.pdb
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CopyComplete
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\refint\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.pdb
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.genruntimeconfig.cache
+C:\Users\User\Desktop\רבקי\תכנות\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\ref\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.deps.json
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.runtimeconfig.json
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.pdb
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.dll
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.pdb
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CopyComplete
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\refint\2_Server.Services.dll
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.pdb
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.genruntimeconfig.cache
+C:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\ref\2_Server.Services.dll
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.deps.json
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.runtimeconfig.json
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.dll
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.pdb
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.dll
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.pdb
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfo.cs
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CopyComplete
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.dll
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\refint\2_Server.Services.dll
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.pdb
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.genruntimeconfig.cache
+D:\Users\User\Desktop\רבקי\Computer Programming\שנה ב'-תשפ''ג\פרקטיקום\Rivky_Etinger\Server\Server.Services\obj\Debug\net6.0\ref\2_Server.Services.dll
+C:\Users\User\Desktop\תהילה\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.deps.json
+C:\Users\User\Desktop\תהילה\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.runtimeconfig.json
+C:\Users\User\Desktop\תהילה\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.dll
+C:\Users\User\Desktop\תהילה\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.pdb
+C:\Users\User\Desktop\תהילה\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.dll
+C:\Users\User\Desktop\תהילה\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.pdb
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CopyComplete
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.dll
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\refint\2_Server.Services.dll
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.pdb
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.genruntimeconfig.cache
+C:\Users\User\Desktop\תהילה\Server\Server.Services\obj\Debug\net6.0\ref\2_Server.Services.dll
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.deps.json
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.runtimeconfig.json
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.dll
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.pdb
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.dll
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.pdb
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.AssemblyReference.cache
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfoInputs.cache
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfo.cs
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CoreCompileInputs.cache
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CopyComplete
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.dll
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\refint\2_Server.Services.dll
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.pdb
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.genruntimeconfig.cache
+C:\Users\רוזנפלד\Downloads\jm_yGIquefwPEuUn92\Server\Server.Services\obj\Debug\net6.0\ref\2_Server.Services.dll
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.deps.json
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.runtimeconfig.json
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.dll
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\bin\Debug\net6.0\2_Server.Services.pdb
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.dll
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\bin\Debug\net6.0\3_Server.Repository.pdb
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.AssemblyReference.cache
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfoInputs.cache
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.AssemblyInfo.cs
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CoreCompileInputs.cache
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.csproj.CopyComplete
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.dll
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\refint\2_Server.Services.dll
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.pdb
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\2_Server.Services.genruntimeconfig.cache
+C:\Users\רוזנפלד\Downloads\תכנית הדסים - מטלת בית\שאלה 2\סעיף א\Server\Server.Services\obj\Debug\net6.0\ref\2_Server.Services.dll
