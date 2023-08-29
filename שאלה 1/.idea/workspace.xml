@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c5603f5-2d5c-4ae4-b163-03fdac9dcc75" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/ProjectEvaluation/server.metadata.v6.1" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/ProjectEvaluation/server.metadata.v6.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/ProjectEvaluation/server.projects.v6.1" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/ProjectEvaluation/server.projects.v6.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/Server/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/Server/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/Server/FileContentIndex/eac84dda-833e-4abc-bdbc-941eb2b3869c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/Server/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/Server/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/Server/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/.vs/Server/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Api/bin/Debug/net6.0/3_Server.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Api/bin/Debug/net6.0/3_Server.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Api/bin/Debug/net6.0/3_Server.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Api/bin/Debug/net6.0/3_Server.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Api/obj/Debug/net6.0/1_Server.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Api/obj/Debug/net6.0/1_Server.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/Interfaces/IDataSource.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/Interfaces/IDataSource.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/bin/Debug/net6.0/3_Server.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/bin/Debug/net6.0/3_Server.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/bin/Debug/net6.0/3_Server.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/bin/Debug/net6.0/3_Server.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/obj/Debug/net6.0/3_Server.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/obj/Debug/net6.0/3_Server.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/obj/Debug/net6.0/3_Server.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Repository/obj/Debug/net6.0/3_Server.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Services/bin/Debug/net6.0/3_Server.Repository.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Services/bin/Debug/net6.0/3_Server.Repository.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Services/bin/Debug/net6.0/3_Server.Repository.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Services/bin/Debug/net6.0/3_Server.Repository.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Services/obj/Debug/net6.0/2_Server.Services.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../שאלה 2/סעיף א/Server/Server.Services/obj/Debug/net6.0/2_Server.Services.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QPbQLN9UPvqJIKfpTXZXO4Pu8D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c5603f5-2d5c-4ae4-b163-03fdac9dcc75" name="Changes" comment="" />
+      <created>1685258153930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685258153930</updated>
+    </task>
+    <servers />
+  </component>
+</project>
